@@ -10,7 +10,7 @@ Usage: ufiformat [OPTION]... [DEVICE]
 Format a floppy disk in a USB floppy disk DEVICE.
     
  * -f, --format [SIZE]  <br> specify format capacity SIZE in KB <br> without -f option, the format of the current media will be used
- * -F, --force          <br> do not perform any safety checkshttps://github.com/bocke/ufiformat/edit/master/README.md
+ * -F, --force          <br> do not perform any safety checks
  * -i, --inquire        <br> show device information, instead of performing format <br> without DEVICE argument, list USB floppy disk devices
  * -v, --verbose        <br> show detailed output
  * -q, --quiet          <br> suppress minor output

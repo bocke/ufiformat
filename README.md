@@ -1,3 +1,11 @@
+# Ufiformat
+## A format utility for USB floppy disk devices.
+
+My clone of ufiformat repository. Currently only for backup purposes and possible future build patches as it was abandoned by the author.
+
+---
+
+
 The web page of this program was originally hosted by geocities.jp,
 which will be closed by March 2019.  
 Here is a copy of that to keep it accessible in the future.  

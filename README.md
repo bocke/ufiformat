@@ -4,17 +4,14 @@ My clone of ufiformat repository. Currently only for backup purposes and possibl
 
 ## README - a formated version of the original README
 
-
-The web page of this program was originally hosted by geocities.jp which will be closed by March 2019. Here is a copy of that to keep it accessible in the future. No longer maintained.
-
-This is formatting disk utility for USB floppy devices.
+This is a format utility for USB floppy disk devices.
     
 Usage: ufiformat [OPTION]... [DEVICE]
 Format a floppy disk in a USB floppy disk DEVICE.
     
- * -f, --format [SIZE]  <br> specify format capacity SIZE in KB without -f option, the format of the current media will be used
+ * -f, --format [SIZE]  <br> specify format capacity SIZE in KB <br> without -f option, the format of the current media will be used
  * -F, --force          <br> do not perform any safety checks
- * -i, --inquire        <br> show device information, instead of performing format without DEVICE argument, list USB floppy disk devices
+ * -i, --inquire        <br> show device information, instead of performing format <br> without DEVICE argument, list USB floppy disk devices
  * -v, --verbose        <br> show detailed output
  * -q, --quiet          <br> suppress minor output
  * -h, --help           <br> show this message

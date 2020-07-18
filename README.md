@@ -1,5 +1,4 @@
-# Ufiformat
-## A format utility for USB floppy disk devices.
+# Ufiforma - A format utility for USB floppy disk devices.
 
 My clone of ufiformat repository. Currently only for backup purposes and possible future build patches as it was abandoned by the author.
 

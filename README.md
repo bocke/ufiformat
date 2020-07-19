@@ -2,7 +2,7 @@
 
 My clone of ufiformat repository. Currently only for backup purposes and possible future build patches as it was abandoned by the author.
 
-## README - a formated version of the original README
+## README
 
 This is a format utility for USB floppy disk devices.
     
@@ -32,4 +32,4 @@ This program is based around the following document:
 
 ## The original author
 
- * Kazuhiro Hayashi <https://github.com/tedigh>
+ * Kazuhiro Hayashi (<https://github.com/tedigh>)

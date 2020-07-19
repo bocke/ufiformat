@@ -28,8 +28,6 @@ NOTE: ufiformat supports only the following format capacities.
 This program is based around the following document:
  *   "Universal Serial Bus Mass Storage Class - UFI Command Specification", Revision 1.0 December 14 1998, http://www.usb.org/developers/devclass_docs/usbmass-ufi10.pdf
   
----
-
 ## The original author
 
  * Kazuhiro Hayashi (<https://github.com/tedigh>)

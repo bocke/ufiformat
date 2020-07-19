@@ -26,7 +26,7 @@ NOTE: ufiformat supports only the following format capacities.
  The above format capacities are predefined in the program, but each usb floppy device also has a limited set of formats (defined internally) that it can format media to. The allowed format capacities are obtained by querying the device, but this only returns the total format capacity and not CHS (cylinder, heads and sectors), hence a mapping is required in the program.
     
 This program is based around the following document:
- *   "Universal Serial Bus Mass Storage Class - UFI Command Specification", Revision 1.0 December 14 1998, <https://www.usb.org/sites/default/files/usbmass-ufi10.pdf>
+ *   "Universal Serial Bus Mass Storage Class - UFI Command Specification", Revision 1.0 December 14 1998, <https://www.usb.org/document-library/mass-storage-ufi-command-specification-10>
   
 ## The original author
 

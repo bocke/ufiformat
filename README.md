@@ -6,7 +6,7 @@ My clone of ufiformat repository. Currently only for backup purposes and possibl
 
 This is a format utility for USB floppy disk devices.
     
-Usage: ufiformat [OPTION]... [DEVICE]
+Usage: ufiformat [OPTION]... [DEVICE]<br>
 Format a floppy disk in a USB floppy disk DEVICE.
     
  * -f, --format [SIZE]  <br> specify format capacity SIZE in KB <br> without -f option, the format of the current media will be used
